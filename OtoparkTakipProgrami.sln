@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoparkTakipProgrami", "OtoparkTakipProgrami\OtoparkTakipProgrami.csproj", "{0157A862-7BC4-4981-8887-62AE6591BB58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtoparkProgramıSetup", "OtoparkProgramıSetup\OtoparkProgramıSetup.vdproj", "{578FF165-707F-40E3-881C-20801644A1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0157A862-7BC4-4981-8887-62AE6591BB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0157A862-7BC4-4981-8887-62AE6591BB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0157A862-7BC4-4981-8887-62AE6591BB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0157A862-7BC4-4981-8887-62AE6591BB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578FF165-707F-40E3-881C-20801644A1D5}.Debug|Any CPU.ActiveCfg = Debug
+		{578FF165-707F-40E3-881C-20801644A1D5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
