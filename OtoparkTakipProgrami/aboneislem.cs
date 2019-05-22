@@ -29,14 +29,16 @@ namespace OtoparkTakipProgrami
             try
             {
                 baglan.Open();
-                OleDbCommand cmd = new OleDbCommand("insert into aboneler(ad_soyad,plaka,tel,posta,adres) values('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox4.Text + "','" + textBox5.Text + "','" + textBox6.Text + "',)", baglan);
+                OleDbCommand cmd = new OleDbCommand("insert into aboneler(ad_soyad,plaka,tel,posta,adres) values('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox4.Text + "','" + textBox5.Text + "','" + textBox6.Text + "')", baglan);
                 cmd.ExecuteNonQuery();
                 baglan.Close();
+                MessageBox.Show("Abone Eklendi.");
+                this.Close();
             }
             catch (Exception)
             {
-
-                
+                MessageBox.Show("Bir Hata Ouştu.");
+                this.Close();
             }
             
         }
@@ -49,12 +51,13 @@ namespace OtoparkTakipProgrami
                 OleDbCommand cmd = new OleDbCommand("delete from aboneler where plaka='"+textBox2.Text+"'",baglan);
                 cmd.ExecuteNonQuery();
                 baglan.Close();
+                MessageBox.Show("Abone Silindi.");
                 this.Close();
             }
             catch (Exception)
             {
-
-
+                MessageBox.Show("Bir Hata Ouştu.");
+                this.Close();
             }
         }
 

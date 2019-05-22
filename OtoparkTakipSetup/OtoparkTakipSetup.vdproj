@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:OtoparkProgramıSetup"
+"ProjectName" = "8:OtoparkTakipSetup"
 "LanguageId" = "3:1055"
 "CodePage" = "3:1254"
 "UILanguageId" = "3:1055"
@@ -15,134 +15,134 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_00DE21DBE5674E2E859E8752D7F94447"
+        "MsmKey" = "8:_0D45D0E1F4244BE5B75F298B537A5112"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0ABBE9E1CF8C4E1C81E09516C5653902"
+        "MsmKey" = "8:_0E3E06B411E648FDAF7A542C01E32F2E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_17A69D27E1AF465FB738FCCCBCCFF976"
+        "MsmKey" = "8:_220445ECD796413E9A0AB4C870893A0C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1C6223A868B14478BCC3BA535E82F1D3"
+        "MsmKey" = "8:_3A321603011548E8BF4E26EADE5F0A37"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3682D4B6362B4C0C80617F58C1338784"
+        "MsmKey" = "8:_3B2EE0BE35774DBEB825A553AD26CC88"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3DF07748D60B43F5A7A54B72F5211EA8"
+        "MsmKey" = "8:_4F84264C55A04274BF0F8D3D69B51A76"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5BDE9A3DA0C348BB9146AAE972E94A57"
+        "MsmKey" = "8:_527B656364394C51B8380AD8F6B281ED"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_674443975DA54E31AA4E1FACB5E2C2E7"
+        "MsmKey" = "8:_54939ED022B546F88861E02B6C275EE2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6803DD17CDB5CFA1763F1EDAA336F7EB"
-        "OwnerKey" = "8:_DE229F1EAD294826821F8005730ADB5B"
+        "MsmKey" = "8:_5B4F9DF2496B71AD248A926457352827"
+        "OwnerKey" = "8:_DF71DBBBC3604128B0611A5C8CA74A40"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7766869C0E494D4690C8BDA134135809"
+        "MsmKey" = "8:_655E680CB091402CB09FBF49E9038132"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7F263A4F35634DA6A23178F541B4009E"
+        "MsmKey" = "8:_6B7C92B85612430C9F4E8042EFBED6B0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8E9FFE672F9F4D7788C945C59600E2B0"
+        "MsmKey" = "8:_72140C9DC3484885B444BC5FE1E3C766"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A01A3585BF174884826838FCB782D66B"
+        "MsmKey" = "8:_77D5B044403D4C0284E9477153D24C49"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_ABC5DFB58A484FA2817AA6DBD13D1C23"
+        "MsmKey" = "8:_8B284CD4A12A42C1AB690656A9E8F2EE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B8CE0FCD68B6469C81F23CCE89B59C96"
+        "MsmKey" = "8:_9EE4F13F6F4945398B8DD261849D2423"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_BBEEA4932DE84AF1A02974EB3F70A046"
+        "MsmKey" = "8:_CD865A5561D544C9B05607DBEEB4B4FD"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D57AA88F8A144DFA9CDC702CAE30F1D5"
+        "MsmKey" = "8:_DF71DBBBC3604128B0611A5C8CA74A40"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DE229F1EAD294826821F8005730ADB5B"
+        "MsmKey" = "8:_F5B40666660944AE831D4B8F9C8F92A0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EA354DBDEA8E45FCAA14A044A5083392"
+        "MsmKey" = "8:_F902763D3A9B41A286777421DAA96718"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EA354DBDEA8E45FCAA14A044A5083392"
+        "OwnerKey" = "8:_0E3E06B411E648FDAF7A542C01E32F2E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6803DD17CDB5CFA1763F1EDAA336F7EB"
+        "OwnerKey" = "8:_5B4F9DF2496B71AD248A926457352827"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DE229F1EAD294826821F8005730ADB5B"
+        "OwnerKey" = "8:_DF71DBBBC3604128B0611A5C8CA74A40"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -153,7 +153,7 @@
         "DisplayName" = "8:Debug"
         "IsDebugOnly" = "11:TRUE"
         "IsReleaseOnly" = "11:FALSE"
-        "OutputFilename" = "8:Debug\\OtoparkProgramıSetup.msi"
+        "OutputFilename" = "8:Debug\\OtoparkTakipSetup.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -177,7 +177,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\OtoparkProgramıSetup.msi"
+        "OutputFilename" = "8:Release\\OtoparkTakipSetup.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -212,7 +212,7 @@
         {
             "LaunchCondition"
             {
-                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_A72271BAC1E9432EB4036511D1FFEF0C"
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_D09AAB286FB140DF9CDBB09C34AA1B73"
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
@@ -224,12 +224,83 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_00DE21DBE5674E2E859E8752D7F94447"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0D45D0E1F4244BE5B75F298B537A5112"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\P_yapilabilir.png"
+            "TargetName" = "8:P_yapilabilir.png"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0E3E06B411E648FDAF7A542C01E32F2E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OtoparkTakipProgrami, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_0E3E06B411E648FDAF7A542C01E32F2E"
+                    {
+                    "Name" = "8:OtoparkTakipProgrami.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_220445ECD796413E9A0AB4C870893A0C"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\ikon.ico"
+            "TargetName" = "8:ikon.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3A321603011548E8BF4E26EADE5F0A37"
             {
             "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.vshost.exe.config"
             "TargetName" = "8:OtoparkTakipProgrami.vshost.exe.config"
             "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -244,132 +315,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0ABBE9E1CF8C4E1C81E09516C5653902"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\anamenu_foto.png"
-            "TargetName" = "8:anamenu_foto.png"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_17A69D27E1AF465FB738FCCCBCCFF976"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\gecmis_islem.png"
-            "TargetName" = "8:gecmis_islem.png"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1C6223A868B14478BCC3BA535E82F1D3"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\admin.png"
-            "TargetName" = "8:admin.png"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3682D4B6362B4C0C80617F58C1338784"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.exe.config"
-            "TargetName" = "8:OtoparkTakipProgrami.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3DF07748D60B43F5A7A54B72F5211EA8"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.pdb"
-            "TargetName" = "8:OtoparkTakipProgrami.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5BDE9A3DA0C348BB9146AAE972E94A57"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\Otopark_db.mdb"
-            "TargetName" = "8:Otopark_db.mdb"
-            "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_674443975DA54E31AA4E1FACB5E2C2E7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B2EE0BE35774DBEB825A553AD26CC88"
             {
             "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\ayarlar.png"
             "TargetName" = "8:ayarlar.png"
             "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -384,14 +335,74 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6803DD17CDB5CFA1763F1EDAA336F7EB"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F84264C55A04274BF0F8D3D69B51A76"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.pdb"
+            "TargetName" = "8:OtoparkTakipProgrami.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_527B656364394C51B8380AD8F6B281ED"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.exe.config"
+            "TargetName" = "8:OtoparkTakipProgrami.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_54939ED022B546F88861E02B6C275EE2"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\carpi.png"
+            "TargetName" = "8:carpi.png"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5B4F9DF2496B71AD248A926457352827"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:TRUE"
             "AssemblyAsmDisplayName" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6803DD17CDB5CFA1763F1EDAA336F7EB"
+                    "_5B4F9DF2496B71AD248A926457352827"
                     {
                     "Name" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll"
                     "Attributes" = "3:512"
@@ -400,7 +411,7 @@
             "SourcePath" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -415,12 +426,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7766869C0E494D4690C8BDA134135809"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_655E680CB091402CB09FBF49E9038132"
             {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\P_yapilamaz.png"
-            "TargetName" = "8:P_yapilamaz.png"
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\admin.png"
+            "TargetName" = "8:admin.png"
             "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -435,12 +446,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7F263A4F35634DA6A23178F541B4009E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6B7C92B85612430C9F4E8042EFBED6B0"
             {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\P_yapilabilir.png"
-            "TargetName" = "8:P_yapilabilir.png"
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\Otopark_db.mdb"
+            "TargetName" = "8:Otopark_db.mdb"
             "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -455,32 +466,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E9FFE672F9F4D7788C945C59600E2B0"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\ikon.ico"
-            "TargetName" = "8:ikon.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A01A3585BF174884826838FCB782D66B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_72140C9DC3484885B444BC5FE1E3C766"
             {
             "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\abone_islem.png"
             "TargetName" = "8:abone_islem.png"
             "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -495,52 +486,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ABC5DFB58A484FA2817AA6DBD13D1C23"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\carpi.png"
-            "TargetName" = "8:carpi.png"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8CE0FCD68B6469C81F23CCE89B59C96"
-            {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\btn_cikis.png"
-            "TargetName" = "8:btn_cikis.png"
-            "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BBEEA4932DE84AF1A02974EB3F70A046"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_77D5B044403D4C0284E9477153D24C49"
             {
             "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.vshost.exe.manifest"
             "TargetName" = "8:OtoparkTakipProgrami.vshost.exe.manifest"
             "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -555,12 +506,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D57AA88F8A144DFA9CDC702CAE30F1D5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8B284CD4A12A42C1AB690656A9E8F2EE"
             {
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\top_kazanc.png"
-            "TargetName" = "8:top_kazanc.png"
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\anamenu_foto.png"
+            "TargetName" = "8:anamenu_foto.png"
             "Tag" = "8:"
-            "Folder" = "8:_6F146368BDF64B21BAAE23B40576B709"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -575,14 +526,54 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DE229F1EAD294826821F8005730ADB5B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9EE4F13F6F4945398B8DD261849D2423"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\P_yapilamaz.png"
+            "TargetName" = "8:P_yapilamaz.png"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD865A5561D544C9B05607DBEEB4B4FD"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\btn_cikis.png"
+            "TargetName" = "8:btn_cikis.png"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DF71DBBBC3604128B0611A5C8CA74A40"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_DE229F1EAD294826821F8005730ADB5B"
+                    "_DF71DBBBC3604128B0611A5C8CA74A40"
                     {
                     "Name" = "8:OtoparkTakipProgrami.vshost.exe"
                     "Attributes" = "3:512"
@@ -591,7 +582,7 @@
             "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.vshost.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
+            "Folder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -606,23 +597,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EA354DBDEA8E45FCAA14A044A5083392"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F5B40666660944AE831D4B8F9C8F92A0"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:OtoparkTakipProgrami, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_EA354DBDEA8E45FCAA14A044A5083392"
-                    {
-                    "Name" = "8:OtoparkTakipProgrami.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\OtoparkTakipProgrami.exe"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\gecmis_islem.png"
+            "TargetName" = "8:gecmis_islem.png"
             "Tag" = "8:"
-            "Folder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F902763D3A9B41A286777421DAA96718"
+            {
+            "SourcePath" = "8:..\\OtoparkTakipProgrami\\bin\\Debug\\resim\\top_kazanc.png"
+            "TargetName" = "8:top_kazanc.png"
+            "Tag" = "8:"
+            "Folder" = "8:_88A347FAFBFB484786BB8850CF49C951"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -643,18 +643,7 @@
         }
         "Folder"
         {
-            "{1525181F-901A-416C-8A58-119130FE478E}:_552376C065F0498FBEE37A3AE4F546AD"
-            {
-            "Name" = "8:#1919"
-            "AlwaysCreate" = "11:FALSE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Property" = "8:ProgramMenuFolder"
-                "Folders"
-                {
-                }
-            }
-            "{1525181F-901A-416C-8A58-119130FE478E}:_90964DC19D6F40CA8F94D48F2D9DE692"
+            "{1525181F-901A-416C-8A58-119130FE478E}:_7E5BD2877ACC4F65BD4B3C476B0B5A0C"
             {
             "Name" = "8:#1916"
             "AlwaysCreate" = "11:FALSE"
@@ -665,7 +654,18 @@
                 {
                 }
             }
-            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_E594C55C7FA54517BAA68D0507DA13C4"
+            "{1525181F-901A-416C-8A58-119130FE478E}:_9927CC267BA24C88816548CA93E638A7"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                }
+            }
+            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
             {
             "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
@@ -675,13 +675,13 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_6F146368BDF64B21BAAE23B40576B709"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_88A347FAFBFB484786BB8850CF49C951"
                     {
                     "Name" = "8:resim"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_CDD06C770AC9426F809E99E60D74625C"
+                    "Property" = "8:_CC971C96C30B4E069C44BAB73C793A2F"
                         "Folders"
                         {
                         }
@@ -703,22 +703,22 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:Otopark Programı"
-        "ProductCode" = "8:{564D8216-11C9-4FBA-9309-E7C21C10DC88}"
-        "PackageCode" = "8:{EE0D2AFC-FE6E-406F-B387-A8478B1CBAB8}"
-        "UpgradeCode" = "8:{5DD70CF2-FE37-4EEA-942C-D63A828DC3B9}"
+        "ProductName" = "8:Otopark Takip"
+        "ProductCode" = "8:{530FB96D-0A57-4F82-AF21-0295C2F10B4E}"
+        "PackageCode" = "8:{D83B8833-7C43-412E-B0B7-872FE1416374}"
+        "UpgradeCode" = "8:{96BAED22-1963-44FB-AF30-BB7DD1C814C4}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:"
+        "Manufacturer" = "8:Berkhan Akdag"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:Otopark Programı"
+        "Title" = "8:Otopark Takip"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Oto"
+        "ARPCONTACT" = "8:Berkhan Akdag"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
@@ -737,7 +737,7 @@
             {
                 "Keys"
                 {
-                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_F0E494B6CA794A74B98D67F7E8619FEC"
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_83BC1A9E86BC4241AC515A4FF1ED6BF4"
                     {
                     "Name" = "8:Software"
                     "Condition" = "8:"
@@ -746,7 +746,7 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_A42E6950527F4E869648BC1DD545DC58"
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_4A5DBC96AF8D4D93937062406AF37E26"
                             {
                             "Name" = "8:[Manufacturer]"
                             "Condition" = "8:"
@@ -771,7 +771,7 @@
             {
                 "Keys"
                 {
-                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_631B0C7F84F5494CA9166F94513093FD"
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_CA7C7C5E03FE483AA30AE03CA4153D85"
                     {
                     "Name" = "8:Software"
                     "Condition" = "8:"
@@ -780,7 +780,7 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_A913BD003829492EB96DEA5086BAE799"
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_8031D0C355CD40C9A7EE99D6679CDFBC"
                             {
                             "Name" = "8:[Manufacturer]"
                             "Condition" = "8:"
@@ -825,7 +825,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_B461F0B461C84FC1A127D1ED241B4081"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9D7CA30EDF58435CAB17DC4E470CDFD1"
             {
             "Name" = "8:Otopark Takip Programi.exe"
             "Arguments" = "8:"
@@ -833,29 +833,35 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_EA354DBDEA8E45FCAA14A044A5083392"
-            "Folder" = "8:_90964DC19D6F40CA8F94D48F2D9DE692"
-            "WorkingFolder" = "8:_E594C55C7FA54517BAA68D0507DA13C4"
-            "Icon" = "8:_8E9FFE672F9F4D7788C945C59600E2B0"
+            "Target" = "8:_0E3E06B411E648FDAF7A542C01E32F2E"
+            "Folder" = "8:_9927CC267BA24C88816548CA93E638A7"
+            "WorkingFolder" = "8:_CFB33DB3E76141F6AA5DCB9AAE7A522D"
+            "Icon" = "8:_220445ECD796413E9A0AB4C870893A0C"
             "Feature" = "8:"
             }
         }
         "UserInterface"
         {
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_12F5D0D75B9945BAA328CC3A4F3317C1"
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_0EA7237386204A09A67BB90AC7512F52"
             {
-            "Name" = "8:#1901"
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_4166D4487E2343619623AFCEFA2801CA"
+            {
+            "Name" = "8:#1900"
             "Sequence" = "3:1"
-            "Attributes" = "3:2"
+            "Attributes" = "3:1"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_6A7F289AA7FD43A0949106EE566969A7"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_02A4A195B66449FC9EEDB04AA871D7EA"
                     {
-                    "Sequence" = "3:100"
-                    "DisplayName" = "8:Progress"
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
                         "Properties"
                         {
                             "BannerBitmap"
@@ -869,11 +875,11 @@
                             "Setting" = "3:1"
                             "UsePlugInResources" = "11:TRUE"
                             }
-                            "ShowProgress"
+                            "InstallAllUsersVisible"
                             {
-                            "Name" = "8:ShowProgress"
-                            "DisplayName" = "8:#1009"
-                            "Description" = "8:#1109"
+                            "Name" = "8:InstallAllUsersVisible"
+                            "DisplayName" = "8:#1059"
+                            "Description" = "8:#1159"
                             "Type" = "3:5"
                             "ContextData" = "8:1;True=1;False=0"
                             "Attributes" = "3:0"
@@ -884,28 +890,7 @@
                             }
                         }
                     }
-                }
-            }
-            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_264E9940D912464795C7CA15AD2D8C9B"
-            {
-            "UseDynamicProperties" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
-            }
-            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_295E96453E5244DBB04E8A2A42996ACB"
-            {
-            "UseDynamicProperties" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
-            }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_511165328E6D4A7982A08C0D570F947D"
-            {
-            "Name" = "8:#1900"
-            "Sequence" = "3:1"
-            "Attributes" = "3:1"
-                "Dialogs"
-                {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_30B7AE4C29504F85B1B1021EE0D651B9"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_411734D9A3B2474699A05E44D2220A46"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:Welcome"
@@ -953,42 +938,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A0C21CC00EB5415F9FDD6D2B9BBAB845"
-                    {
-                    "Sequence" = "3:200"
-                    "DisplayName" = "8:Installation Folder"
-                    "UseDynamicProperties" = "11:TRUE"
-                    "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
-                        "Properties"
-                        {
-                            "BannerBitmap"
-                            {
-                            "Name" = "8:BannerBitmap"
-                            "DisplayName" = "8:#1001"
-                            "Description" = "8:#1101"
-                            "Type" = "3:8"
-                            "ContextData" = "8:Bitmap"
-                            "Attributes" = "3:4"
-                            "Setting" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                            "InstallAllUsersVisible"
-                            {
-                            "Name" = "8:InstallAllUsersVisible"
-                            "DisplayName" = "8:#1059"
-                            "Description" = "8:#1159"
-                            "Type" = "3:5"
-                            "ContextData" = "8:1;True=1;False=0"
-                            "Attributes" = "3:0"
-                            "Setting" = "3:0"
-                            "Value" = "3:1"
-                            "DefaultValue" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                        }
-                    }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F6A5359781D54F30BFE81096BC5B6D23"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_D86BE1A182E1484E85A4CF68DA595466"
                     {
                     "Sequence" = "3:300"
                     "DisplayName" = "8:Confirm Installation"
@@ -1012,14 +962,14 @@
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_753339F6E5934F079BB8E2CB9715F10F"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_62F6C4E8AE3047899F6B599DE53248C3"
             {
             "Name" = "8:#1901"
             "Sequence" = "3:2"
             "Attributes" = "3:2"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_D447FA47D84641AAA07D5094975855E1"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_BFC5325811C746FE8E01BA04819F690A"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:Progress"
@@ -1056,45 +1006,20 @@
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_7FEB47BB61574C9D92E527095023AA93"
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_63860635C01040C985683A97F5B81224"
             {
-            "Name" = "8:#1902"
-            "Sequence" = "3:2"
-            "Attributes" = "3:3"
-                "Dialogs"
-                {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_59CB41528F8E496789296AAE9A504321"
-                    {
-                    "Sequence" = "3:100"
-                    "DisplayName" = "8:Finished"
-                    "UseDynamicProperties" = "11:TRUE"
-                    "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
-                        "Properties"
-                        {
-                            "BannerBitmap"
-                            {
-                            "Name" = "8:BannerBitmap"
-                            "DisplayName" = "8:#1001"
-                            "Description" = "8:#1101"
-                            "Type" = "3:8"
-                            "ContextData" = "8:Bitmap"
-                            "Attributes" = "3:4"
-                            "Setting" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                        }
-                    }
-                }
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_960872F6DF774663BD5E695D1BAC8923"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_C1A3934C41C347098DB1F2CB4C1E4151"
             {
             "Name" = "8:#1902"
             "Sequence" = "3:1"
             "Attributes" = "3:3"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_55819474008A4DCCB90EED5F7D573052"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_548DEA72FD19422C8C140FFD5B0626DF"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:Finished"
@@ -1131,14 +1056,89 @@
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_AE242C7892494C8A9E738145DF60D9B0"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_D92203A2D23F4F71974B697100062AA3"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:1"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_49FDF96FC33148DFB2F39199C3E51553"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_DDC1FE344617445DA79D14EFA78B99F5"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_575D336E02BB4BDB96F997F769F506C1"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_E30752DCBE864AF1B64261CB78BE322A"
             {
             "Name" = "8:#1900"
             "Sequence" = "3:2"
             "Attributes" = "3:1"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_3730DD126E244343ADDB60553426ADD6"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_5037F779ADC04E3E88E4FEEB673AF42B"
                     {
                     "Sequence" = "3:300"
                     "DisplayName" = "8:Confirm Installation"
@@ -1160,7 +1160,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_B54247B0E4704BDAA3C760F31FF0ADEC"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_890B676A3E33410596BFEFD2AD84F7CE"
                     {
                     "Sequence" = "3:200"
                     "DisplayName" = "8:Installation Folder"
@@ -1182,7 +1182,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_B7B26E230E5A49268FB41F9CA5C32638"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_97C82C8E053743EAA4921BFAF2422DA8"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:Welcome"
